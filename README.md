@@ -1,1 +1,1 @@
-"Line from branch1" 
+Line from branch1 and branch2 (resolved)
